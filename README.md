@@ -5,4 +5,4 @@ The effect of the ripple effect is written. When you use it, you just need to co
 
 
 
-![image](https://github.com/xiongcp/button/blob/master/Untitled.gif）
+![image](https://github.com/xiongcp/button/blob/master/Untitled.gif?raw=true）
